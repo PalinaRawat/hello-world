@@ -1,3 +1,3 @@
 # hello-world
 
-T
+Website for the hackathon organized by students at Purdue University. 
