@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    background-color: #0F1B23;
+    background-color: #0F1B23; 
     font-size: 1em;
     line-height: 1.4;
 }
@@ -34,10 +34,16 @@ html {
     text-shadow: none;
 }
 
+
 /*
  * A better looking default horizontal rule
  */
-
+img {
+    width: 300px;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+}
 hr {
     display: block;
     height: 1px;
