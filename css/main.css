@@ -16,6 +16,12 @@ html {
     line-height: 1.4;
 }
 
+section {
+  height: 100vh;
+}
+
+
+
 ul {
     
   list-style-type: none;
