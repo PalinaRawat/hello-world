@@ -16,6 +16,34 @@ html {
     line-height: 1.4;
 }
 
+ul {
+    
+  list-style-type: none;
+  margin-top: -360px;
+  margin-left: -40px;
+  
+}
+
+@font-face {
+    font-family: "Tempus";
+    src: url(TEMPSITC.TTF);
+}
+
+li {
+    font-family: "Tempus";
+    src: url(TEMPSITC.TTF);
+
+    font-size: 20px;
+    float: left;
+    padding-left: 20px;
+   
+}
+
+li a {
+   text-decoration: none;
+    color: #F9F9F9;
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
