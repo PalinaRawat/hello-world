@@ -15,9 +15,12 @@ body {
   text-align: center;
 }
 section {
-  height: 300px;
+  height: 100vh;
 }
 
+main {
+  height: 100vh;
+}
 h1 {
   font-family: 'Walter Turncoat', sans-serif;
 }
