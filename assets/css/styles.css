@@ -12,6 +12,9 @@ section {
   height: 300px;
 }
 
+h1 {
+  font-family: 'Walter Turncoat', sans-serif;
+}
 nav {
   display: flex;
   justify-content: flex-start;
@@ -30,5 +33,8 @@ nav a span:hover {
 
 a {
   text-decoration: none;
+}
 
+footer {
+  padding: 20px;
 }
