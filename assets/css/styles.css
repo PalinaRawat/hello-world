@@ -1,3 +1,9 @@
+/* Colors
+teal: ##55C296
+navy: #101B24
+light teal: #C1FFF2
+light blue: #7489A7
+*/
 body {
   font-family: 'Montserrat', sans-serif;
   background-color: #101B24;
@@ -15,6 +21,9 @@ section {
 h1 {
   font-family: 'Walter Turncoat', sans-serif;
 }
+p {
+  font-size: 20px;
+}
 nav {
   display: flex;
   justify-content: flex-start;
@@ -28,13 +37,44 @@ nav a {
 }
 nav a span:hover {
   padding-bottom: 12px;
-  border-bottom: 1px solid #C1FFF2;
+  border-bottom: 3px solid #C1FFF2;
 }
-
 a {
   text-decoration: none;
 }
-
 footer {
+  padding: 20px;
+}
+a:focus, button:focus {
+  outline: none;
+}
+
+.faq .q {
+  text-align: left;
+  font-weight: 400;
+  color: white;
+}
+.faq .a {
+  text-align: left;
+  font-weight: 200;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #55C296;
+  color: white;
+  font-weight: 200;
+  border: none;
+}
+button:hover {
+  background-color: #C1FFF2;
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+div {
   padding: 20px;
 }
