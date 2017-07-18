@@ -69,6 +69,7 @@ button {
 button:hover {
   background-color: #C1FFF2;
   color: #101B24;
+  border-radius: 2px;
 }
 
 .center {
