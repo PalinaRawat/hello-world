@@ -42,6 +42,7 @@ nav a span:hover {
   padding-bottom: 12px;
   border-bottom: 3px solid #C1FFF2;
 }
+
 a {
   text-decoration: none;
 }
@@ -62,6 +63,59 @@ a:focus, button:focus {
   font-weight: 200;
 }
 
+li {
+  margin: 3px;
+  list-style-type: none;
+  font-family: 'Montserrat', sans-serif;
+  color: #4AC29A;
+}
+
+.buttons_dayOf {
+  position: absolute;
+  top:0;
+  right:0;
+  margin-top: 184px;
+  margin-right: 150px;
+  font-size: 14px;
+ }
+
+.dayOf {  
+  font-family: 'Walter Turncoat', sans-serif;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 20px 80px;
+  background-color: #738AA4;
+  color: white;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-bottom: 90px;
+}
+.dayOf:hover {
+  border-radius: 5px;
+  background-color: #9CB2CB;
+  color: #101B24;
+}
+
+.register {  
+  font-family: 'Walter Turncoat', sans-serif;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 20px 80px;
+  background-color: #B6A374;
+  color: white;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.register:hover {
+  border-radius: 5px;
+  background-color: #ECDAAD;
+  color: #101B24;
+}
+.sign_in {
+  color: white;
+  text-decoration: underline;
+  padding-left: 5px;
+}
 button {
   padding: 10px 20px;
   background-color: #55C296;
