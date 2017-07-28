@@ -10,6 +10,7 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+<<<<<<< HEAD
 html {
     background-color: #0F1B23;
     font-size: 1em;
@@ -50,6 +51,8 @@ li a {
     color: #F9F9F9;
 }
 
+=======
+>>>>>>> 8d0c863c971d4da0e5b63d0cce14e9785cbcaaf6
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
