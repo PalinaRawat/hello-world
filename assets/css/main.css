@@ -11,7 +11,7 @@
    ========================================================================== */
 
 html {
-    background-color: #0F1B23; 
+    background-color: #0F1B23;
     font-size: 1em;
     line-height: 1.4;
 }
@@ -23,11 +23,11 @@ section {
 
 
 ul {
-    
+
   list-style-type: none;
   margin-top: -360px;
   margin-left: -40px;
-  
+
 }
 
 @font-face {
@@ -42,7 +42,7 @@ li {
     font-size: 20px;
     float: left;
     padding-left: 20px;
-   
+
 }
 
 li a {
@@ -76,7 +76,7 @@ img {
     width: 300px;
     margin: auto;
     display: block;
-    margin-top: 15px;
+    /*margin-top: 15px;*/
 }
 hr {
     display: block;
