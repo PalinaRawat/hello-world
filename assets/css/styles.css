@@ -85,10 +85,11 @@ li {
   color: white;
   font-weight: 500;
   margin-bottom: 10px;
+  margin-top: -20px;
 }
 .register:hover {
   border-radius: 5px;
-  background-color: #ECDAAD;
+  background-color: #f6d9d6;
   color: #101B24;
 }
 .sign_in {
