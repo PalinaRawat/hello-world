@@ -23,33 +23,7 @@ section {
 
 
 
-ul {
 
-  list-style-type: none;
-  margin-top: -360px;
-  margin-left: -40px;
-
-}
-
-@font-face {
-    font-family: "Tempus";
-    src: url(TEMPSITC.TTF);
-}
-
-li {
-    font-family: "Tempus";
-    src: url(TEMPSITC.TTF);
-
-    font-size: 20px;
-    float: left;
-    padding-left: 20px;
-
-}
-
-li a {
-   text-decoration: none;
-    color: #F9F9F9;
-}
 
 =======
 >>>>>>> 8d0c863c971d4da0e5b63d0cce14e9785cbcaaf6

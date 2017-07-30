@@ -22,7 +22,7 @@ main {
   height: 100vh;
 }
 h1 {
-  font-family: 'Varela Round', sans-serif;
+  font-family: 'Short Stack', sans-serif;
 }
 p {
   font-size: 20px;
@@ -46,6 +46,7 @@ nav a span:hover {
 a {
   text-decoration: none;
 }
+
 footer {
   padding: 20px;
 }
@@ -66,42 +67,21 @@ a:focus, button:focus {
 li {
   margin: 3px;
   list-style-type: none;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Varela Round', sans-serif;
   color: #4AC29A;
 }
 
-.buttons_dayOf {
-  position: absolute;
-  top:0;
-  right:0;
-  margin-top: 184px;
-  margin-right: 150px;
-  font-size: 14px;
- }
+.register_button {
+  margin-right: 40px;
+  margin-top: -20px;
 
-.dayOf {  
-  font-family: 'Walter Turncoat', sans-serif;
-  font-size: 20px;
-  border-radius: 5px;
-  padding: 20px 80px;
-  background-color: #738AA4;
-  color: white;
-  font-weight: 500;
-  margin-top: 10px;
-  margin-bottom: 90px;
 }
-.dayOf:hover {
-  border-radius: 5px;
-  background-color: #9CB2CB;
-  color: #101B24;
-}
-
 .register {  
-  font-family: 'Walter Turncoat', sans-serif;
+  font-family: 'Short Stack', sans-serif;
   font-size: 20px;
   border-radius: 5px;
   padding: 20px 80px;
-  background-color: #B6A374;
+  background-color: #ac7b77;
   color: white;
   font-weight: 500;
   margin-bottom: 10px;
