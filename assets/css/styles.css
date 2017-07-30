@@ -31,6 +31,11 @@ main {
   border: 1px solid #C1FFF2;
   color: #C1FFF2;
   border-radius: 5px;
+  background: rgba(16, 27, 36, 0.9);
+  vertical-align: middle;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: left;
 }
 h1 {
   font-family: 'Short Stack', sans-serif;
@@ -86,7 +91,6 @@ li {
 .register_button {
   margin-right: 40px;
   margin-top: -20px;
-
 }
 .register {  
   font-family: 'Short Stack', sans-serif;
@@ -109,6 +113,23 @@ li {
   text-decoration: underline;
   padding-left: 5px;
 }
+.mentor {  
+  font-family: 'Short Stack', sans-serif;
+  font-size: 20px;
+  border-radius: 5px;
+  width: 254.98px;
+  padding: 20px;
+  background-color: #4ac29a;
+  color: white;
+  font-weight: 500;
+  margin-top: 20px;
+}
+.mentor:hover {
+  border-radius: 5px;
+  background-color: #bdfce7;
+  color: #101B24;
+}
+
 button {
   padding: 10px 20px;
   background-color: #55C296;
