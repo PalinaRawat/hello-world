@@ -21,12 +21,29 @@ section {
 main {
   height: 100vh;
 }
+
+.box {
+
+  width: 1000px;
+  background-color: #738aa4;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  background: rgba(117,138,164,0.9);
+  margin:auto;
+  border: 1px solid #C1FFF2;
+  border-radius: 5px;
+}
 h1 {
   font-family: 'Short Stack', sans-serif;
 }
 p {
   font-size: 20px;
 }
+
+p.b {
+  font-size: 16px;
+}
+
 nav {
   display: flex;
   justify-content: flex-start;
