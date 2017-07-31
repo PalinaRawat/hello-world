@@ -15,11 +15,11 @@ body {
   text-align: center;
 }
 section {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 main {
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .box {
